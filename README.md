@@ -1,5 +1,5 @@
-# Solving CartPole problem using policy iteration
-Monte Carlo policy iteration without baseline is applied to find optimal policy of playing <br />
+# CartPole policy gradient
+Use Monte Carlo policy gradient method without baseline to find optimal policy of playing <br />
 cartpole. <br />
 
 ## Dependencies
